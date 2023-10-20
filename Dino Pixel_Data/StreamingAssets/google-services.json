@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897641385468",
+    "firebase_url": "https://dinopixel-75057-default-rtdb.firebaseio.com",
+    "project_id": "dinopixel-75057",
+    "storage_bucket": "dinopixel-75057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897641385468:android:95e6ec100b8abb0569b679",
+        "android_client_info": {
+          "package_name": "com.dinopixel.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897641385468-2qmcii4t6542935mad4fakmko7rundj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdK5Vs-Fl2U_u5CNBw1F5O4v32oHoJLB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897641385468-2qmcii4t6542935mad4fakmko7rundj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
